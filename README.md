@@ -12,3 +12,4 @@ Data Analytics, Experiemtnal Desgins, Statical Modelling, Python
 
 * **[Aggression Effects in Experimental Data.pdf]**
 * **[Agression Effects Python Code.py]**
+[Aggression Effects in Experimental Data.pdf](Aggression Effects in Experimental Data.pdf)
