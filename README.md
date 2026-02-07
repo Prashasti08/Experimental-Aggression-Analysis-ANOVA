@@ -1,5 +1,14 @@
-# Aggression Effects in Experimental Data
-## Analyzed demographic and situational effects on behavioral aggression using experimental data by conducting
-two-way ANOVA in Python
+# **Aggression Effects in Experimental Data**
 
-Skills: Data Analytics, Experiemtnal Desgins, Statical Modelling, Python
+## **Project Summary**
+Conducted conducted two-way ANOVA in Python to analyze demographic and situational effects on behavioral aggression in experimental data 
+
+## Skills
+Data Analytics, Experiemtnal Desgins, Statical Modelling, Python
+
+
+
+## **Project Deliverables**
+
+* **[Full Case Study Analysis (PDF)](Meta%20Case%20Study%20Analysis.pdf)**
+* **[Presentation to Leadership (PDF)](Meta%20Case%20Study%20Presentation%20.pdf)**
