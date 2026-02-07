@@ -10,5 +10,5 @@ Data Analytics, Experiemtnal Desgins, Statical Modelling, Python
 
 ## **Project Deliverables**
 
-* **[Full Case Study Analysis (PDF)](Meta%20Case%20Study%20Analysis.pdf)**
+* **[Full Case Study Analysis (PDF)](Aggression Effects in Experimental Data.pdf)**
 * **[Presentation to Leadership (PDF)](Meta%20Case%20Study%20Presentation%20.pdf)**
