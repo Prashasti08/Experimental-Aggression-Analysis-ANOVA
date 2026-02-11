@@ -6,7 +6,7 @@ Behavioral aggression is rarely driven by a single factor. The goal of this proj
 
 ### **🛠️ Technical Methodology**
 * **Experimental Design:** Analyzed a factorial design setup to evaluate multiple independent variables simultaneously.
-* **Two-Way ANOVA:** Implemented using **Python to test for main effects and interaction effects.
+* **Two-Way ANOVA:** Implemented using Python to test for main effects and interaction effects.
 * **Hypothesis Testing:** Evaluated $p$-values and effect sizes to determine statistical significance and practical relevance.
 * **Assumptions Checking:** Validated normality and homogeneity of variance (Levene’s test) to ensure the robustness of the ANOVA model.
 
